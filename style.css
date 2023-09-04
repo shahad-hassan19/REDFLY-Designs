@@ -46,7 +46,6 @@ nav{
     background-image: url('hero.jpg');
     background-position: center;
     background-size: cover;
-    /* position: relative; */
 }
 .hero-section{
     display: flex; 
@@ -148,7 +147,7 @@ button{
 .nav-links ul #in a:visited{
     color: red;
 }
-
+/* ======================================= Media-Queries ============================ */
 @media(max-width:700px){
     nav,
     .footer,
